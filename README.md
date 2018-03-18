@@ -1,5 +1,5 @@
 # Snake (EMPTY)
-![alt tag](/RBayat/Snake/doc/snake.jpg)
+![alt tag](/doc/snake.jpg)
  
 ## Getting Started
 
