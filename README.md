@@ -1,5 +1,5 @@
 # Snake (EMPTY)
-![alt tag](https://gitlab.com/RBayat/Snake/blob/master/doc/snake.jpg)
+![alt tag](/RBayat/Snake/blob/master/doc/snake.jpg)
  
 ## Getting Started
 
